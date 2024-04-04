@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+div#general{
+    width: 1366px;
+    height: 768px;
+    background-color: lightblue;
+}
+div#menu{
+    float: left;
+    width: 252px;
+    height: 768px;
+    background-color: darkslategrey;
+    text-align: left;
+    font-family: sans-serif;
+    font-size: 150%;
+    margin: 100px, 0px, 10px, 0px;
+}
+div#cuadro{
+    float: right;
+    width: 1114px;
+    height: 192px;
+    background: aqua;
+    color: #fdfcfc;
+    font-family: sans-serif;
+}
+div#cuadro1{
+    float: right;
+    width: 1114px;
+    height: 192px;
+    background: grey;
+    color: #fdfcfc;
+    font-family: sans-serif;
+}div#cuadro2{
+    float: right;
+    width: 1114px;
+    height: 192px;
+    background: green;
+    color: #fdfcfc;
+    font-family: sans-serif;
+}
+div#cuadro3{
+    float: right;
+    width: 1114px;
+    height: 192px;
+    background: red;
+    color: #fdfcfc;
+    font-family: sans-serif;
+}
